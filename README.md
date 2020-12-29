@@ -37,7 +37,7 @@
     - 파일을 InputStream으로 읽어 Runnable Jar에서도 Data Insert 가능하게 개발
   - Request
     ```
-    http://localhost:8080/init/database`
+    http://localhost:8080/init/database
     ```
   - Response
     ```
